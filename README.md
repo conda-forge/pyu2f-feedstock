@@ -5,11 +5,9 @@ Home: https://pypi.org/project/pyu2f/
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pyu2f-feedstock/blob/master/LICENSE.txt)
 
 Summary: U2F host library for interacting with a U2F device over USB.
-
-
 
 Current build status
 ====================
